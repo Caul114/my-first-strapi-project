@@ -8,7 +8,7 @@ const config = {
     // 'es',
     // 'he',
     // 'id',
-    // 'it',
+    'it',
     // 'ja',
     // 'ko',
     // 'ms',
